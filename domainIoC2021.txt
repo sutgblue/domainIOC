@@ -9,7 +9,7 @@
 0.0.0.0 adolf2013[.]sytes[.]net
 0.0.0.0 checkin[.]travelsanignacio[.]com
 0.0.0.0 dllhost[.]website
-0.0.0.0 indexsinas[.]me
+0.0.0.0 indexsinas.me
 0.0.0.0 indonesias[.]website
 0.0.0.0 sleepingcontrol[.]com
 0.0.0.0 okonewacon[.]com
