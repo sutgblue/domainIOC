@@ -79,7 +79,7 @@
 0.0.0.0 checkin[.]travelsanignacio[.]com
 0.0.0.0 indonesias[.]website
 0.0.0.0 dllhost[.]website
-0.0.0.0 indexsinas[.]me
+0.0.0.0 indexsinas.me
 0.0.0.0 whitecontroller[.]com
 0.0.0.0 venoxcontrol[.]com
 0.0.0.0 okonewacon[.]com
