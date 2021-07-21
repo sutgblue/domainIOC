@@ -69,7 +69,7 @@
 0.0.0.0 uu[.]domainforlite[.]com
 0.0.0.0 flipdigital[.]ru,
 0.0.0.0 cleantds[.]in,
-0.0.0.0 dezaula.com,
+0.0.0.0 dezaula.com
 0.0.0.0 bwinpoker24[.]com
 0.0.0.0 api-rssocks[.]youzicheng[.]net
 0.0.0.0 gvaq70s7he[.]ru,
