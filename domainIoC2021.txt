@@ -67,12 +67,12 @@
 0.0.0.0 tenchier[.]com
 0.0.0.0 ti[.]domainforlite[.]com
 0.0.0.0 uu[.]domainforlite[.]com
-0.0.0.0 flipdigital[.]ru,
-0.0.0.0 cleantds[.]in,
+0.0.0.0 flipdigital[.]ru
+0.0.0.0 cleantds[.]in
 0.0.0.0 dezaula.com
 0.0.0.0 bwinpoker24[.]com
 0.0.0.0 api-rssocks[.]youzicheng[.]net
-0.0.0.0 gvaq70s7he[.]ru,
+0.0.0.0 gvaq70s7he[.]ru
 0.0.0.0 4nbizac8[.]ru
 0.0.0.0 downloadsecurity[.]info
 0.0.0.0 adolf2013[.]sytes[.]net
