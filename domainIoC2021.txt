@@ -1,10 +1,10 @@
 # Have fun, don't break anything we take no responsibility if you do. Cheers!
-0.0.0.0  boreye.com
-0.0.0.0  miniast.com
-0.0.0.0  pilutce.com
-0.0.0.0  tenchier.com
-0.0.0.0  ti.domainforlite.com
-0.0.0.0  uu.domainforlite.com
+0.0.0.0 boreye.com
+0.0.0.0 miniast.com
+0.0.0.0 pilutce.com
+0.0.0.0 tenchier.com
+0.0.0.0 ti.domainforlite.com
+0.0.0.0 uu.domainforlite.com
 0.0.0.0 clickmsummer.com
 0.0.0.0 adolf2013.sytes.net
 0.0.0.0 checkin.travelsanignacio.com
@@ -598,6 +598,6 @@
 0.0.0.0 remotessa.com
 0.0.0.0 backupmastter.com
 0.0.0.0 ip.anysrc.net
-0.0.0.0  www.koapkmobi.com
-0.0.0.0  ks7br7.3q03on.com
-0.0.0.0  www.tuff-kid.com
+0.0.0.0 www.koapkmobi.com
+0.0.0.0 ks7br7.3q03on.com
+0.0.0.0 www.tuff-kid.com
