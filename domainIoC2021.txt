@@ -1,34 +1,34 @@
 # Have fun, don't break anything we take no responsibility if you do. Cheers!
-0.0.0.0 boreye [.]com
-0.0.0.0 miniast [.]com
-0.0.0.0 pilutce [.]com
-0.0.0.0 tenchier [.]com
+0.0.0.0 boreye[.]com
+0.0.0.0 miniast[.]com
+0.0.0.0 pilutce[.]com
+0.0.0.0 tenchier[.]com
 0.0.0.0 ti[.]domainforlite[.]com
 0.0.0.0 uu[.]domainforlite[.]com
 0.0.0.0 clickmsummer[.]com
 0.0.0.0 adolf2013[.]sytes[.]net
 0.0.0.0 checkin[.]travelsanignacio[.]com
-0.0.0.0 dllhost [.]website
-0.0.0.0 indexsinas [.]me
-0.0.0.0 indonesias [.]website
-0.0.0.0 sleepingcontrol [.]com
-0.0.0.0 okonewacon [.]com
-0.0.0.0 whitecontroller [.]com
-0.0.0.0 venoxcontrol [.]com
-0.0.0.0 sndvoices [.]com
-0.0.0.0 sleepingcontrol [.]com
+0.0.0.0 dllhost[.]website
+0.0.0.0 indexsinas[.]me
+0.0.0.0 indonesias[.]website
+0.0.0.0 sleepingcontrol[.]com
+0.0.0.0 okonewacon[.]com
+0.0.0.0 whitecontroller[.]com
+0.0.0.0 venoxcontrol[.]com
+0.0.0.0 sndvoices[.]com
+0.0.0.0 sleepingcontrol[.]com
 0.0.0.0 easywbdesign [.]com
-0.0.0.0 whitecontroller [.]com
-0.0.0.0 whitecontroller [.]com
-0.0.0.0 vamberlo [.]com
-0.0.0.0 zs [.]mk
-0.0.0.0 webstat [.]cc
-0.0.0.0 ups-broker [.]org
-0.0.0.0 webrank [.]ws
-0.0.0.0 enemyunknown [.]club
-0.0.0.0 api-update2 [.]biz
-0.0.0.0 sleepingcontrol [.]com
-0.0.0.0 nextmusic [.]club
+0.0.0.0 whitecontroller[.]com
+0.0.0.0 whitecontroller[.]com
+0.0.0.0 vamberlo[.]com
+0.0.0.0 zs[.]mk
+0.0.0.0 webstat[.]cc
+0.0.0.0 ups-broker[.]org
+0.0.0.0 webrank[.]ws
+0.0.0.0 enemyunknown[.]club
+0.0.0.0 api-update2[.]biz
+0.0.0.0 sleepingcontrol[.]com
+0.0.0.0 nextmusic[.]club
 0.0.0.0 okonewacon [.]com
 0.0.0.0 checkin[.]travelsanignacio[.]com
 0.0.0.0 ip[.]3322[.]net
@@ -61,11 +61,11 @@
 0.0.0.0 msh09[.]ddns[.]net
 0.0.0.0 ip[.]anysrc[.]net
 0.0.0.0 mastergamenameper[.]club
-0.0.0.0 pilutce[.]com,
-0.0.0.0 miniast[.]com,
-0.0.0.0 boreye[.]com,
+0.0.0.0 pilutce[.]com
+0.0.0.0 miniast[.]com
+0.0.0.0 boreye[.]com
 0.0.0.0 tenchier[.]com
-0.0.0.0 ti[.]domainforlite[.]com,
+0.0.0.0 ti[.]domainforlite[.]com
 0.0.0.0 uu[.]domainforlite[.]com
 0.0.0.0 flipdigital[.]ru,
 0.0.0.0 cleantds[.]in,
@@ -77,25 +77,25 @@
 0.0.0.0 downloadsecurity[.]info
 0.0.0.0 adolf2013[.]sytes[.]net
 0.0.0.0 checkin[.]travelsanignacio[.]com
-0.0.0.0 indonesias[.]website,
-0.0.0.0 dllhost[.]website,
+0.0.0.0 indonesias[.]website
+0.0.0.0 dllhost[.]website
 0.0.0.0 indexsinas[.]me
-0.0.0.0 whitecontroller[.]com,
-0.0.0.0 venoxcontrol[.]com,
-0.0.0.0 okonewacon[.]com,
-0.0.0.0 sleepingcontrol[.]com
-0.0.0.0 venoxcontrol[.]com,
-0.0.0.0 okonewacon[.]com,
-0.0.0.0 blackempirebuild[.]com"
-0.0.0.0 blackempirebuild[.]com,
-0.0.0.0 weekdanys[.]com,
-0.0.0.0 okonewacon[.]com,
+0.0.0.0 whitecontroller[.]com
 0.0.0.0 venoxcontrol[.]com
-0.0.0.0 easywbdesign[.]com,
-0.0.0.0 sndvoices[.]com,
-0.0.0.0 sleepingcontrol[.]com,
-0.0.0.0 whitecontroller[.]com,
-0.0.0.0 venoxcontrol[.]com,
+0.0.0.0 okonewacon[.]com
+0.0.0.0 sleepingcontrol[.]com
+0.0.0.0 venoxcontrol[.]com
+0.0.0.0 okonewacon[.]com
+0.0.0.0 blackempirebuild[.]com
+0.0.0.0 blackempirebuild[.]com
+0.0.0.0 weekdanys[.]com
+0.0.0.0 okonewacon[.]com
+0.0.0.0 venoxcontrol[.]com
+0.0.0.0 easywbdesign[.]com
+0.0.0.0 sndvoices[.]com
+0.0.0.0 sleepingcontrol[.]com
+0.0.0.0 whitecontroller[.]com
+0.0.0.0 venoxcontrol[.]com
 0.0.0.0 robotatten[.]com
 0.0.0.0 www[.]hostingcloud[.]racing
 0.0.0.0 www[.]fffffk[.]xyz
@@ -147,48 +147,48 @@
 0.0.0.0 track[.]defatinator[.]com
 0.0.0.0 www[.]tuff-kid[.]com
 0.0.0.0 mastergamenameper[.]club
-0.0.0.0 pilutce[.]com,
+0.0.0.0 pilutce[.]com
 0.0.0.0 boreye[.]com
-0.0.0.0 miniast[.]com,
+0.0.0.0 miniast[.]com
 0.0.0.0 tenchier[.]com
-0.0.0.0 uu[.]domainforlite[.]com,
+0.0.0.0 uu[.]domainforlite[.]com
 0.0.0.0 ti[.]domainforlite[.]com
 0.0.0.0 clickmsummer[.]com
-0.0.0.0 dezaula[.]com ,
-0.0.0.0 cleantds[.]in ,
-0.0.0.0 flipdigital[.]ru ,
+0.0.0.0 dezaula[.]com
+0.0.0.0 cleantds[.]in
+0.0.0.0 flipdigital[.]ru
 0.0.0.0 bwinpoker24[.]com
 0.0.0.0 survivecoronavirus[.]org
-0.0.0.0 4nbizac8[.]ru,
-0.0.0.0 gvaq70s7he[.]ru,
+0.0.0.0 4nbizac8[.]ru
+0.0.0.0 gvaq70s7he[.]ru
 0.0.0.0 atomictrivia[.]ru
 0.0.0.0 downloadsecurity[.]info
 0.0.0.0 adolf2013[.]sytes[.]net
 0.0.0.0 checkin[.]travelsanignacio[.]com
-0.0.0.0 indonesias[.]website,
-0.0.0.0 dllhost[.]website,
+0.0.0.0 indonesias[.]website
+0.0.0.0 dllhost[.]website
 0.0.0.0 indexsinas[.]me
-0.0.0.0 okonewacon[.]com,
-0.0.0.0 whitecontroller[.]com,
-0.0.0.0 venoxcontrol[.]com,
-0.0.0.0 sleepingcontrol[.]com
-0.0.0.0 okonewacon[.]com,
-0.0.0.0 blackempirebuild[.]com,
+0.0.0.0 okonewacon[.]com
+0.0.0.0 whitecontroller[.]com
 0.0.0.0 venoxcontrol[.]com
-0.0.0.0 sndvoices[.]com,
-0.0.0.0 easywbdesign[.]com,
+0.0.0.0 sleepingcontrol[.]com
+0.0.0.0 okonewacon[.]com
+0.0.0.0 blackempirebuild[.]com
+0.0.0.0 venoxcontrol[.]com
+0.0.0.0 sndvoices[.]com
+0.0.0.0 easywbdesign[.]com
 0.0.0.0 venoxcontrol[.]com,
-0.0.0.0 whitecontroller[.]com,
-0.0.0.0 sleepingcontrol[.]com,
+0.0.0.0 whitecontroller[.]com
+0.0.0.0 sleepingcontrol[.]com
 0.0.0.0 robotatten[.]com
-0.0.0.0 web-stat[.]biz,
-0.0.0.0 webrank[.]ws,
-0.0.0.0 webstatvisit[.]com,
-0.0.0.0 google-catalog[.]com,
-0.0.0.0 webstatistic[.]tech,
-0.0.0.0 ups-broker[.]org,
-0.0.0.0 vamberlo[.]com,
-0.0.0.0 webstat[.]cc,
+0.0.0.0 web-stat[.]biz
+0.0.0.0 webrank[.]ws
+0.0.0.0 webstatvisit[.]com
+0.0.0.0 google-catalog[.]com
+0.0.0.0 webstatistic[.]tech
+0.0.0.0 ups-broker[.]org
+0.0.0.0 vamberlo[.]com
+0.0.0.0 webstat[.]cc
 0.0.0.0 enemyunknown[.]club
 0.0.0.0 api-update2[.]biz
 0.0.0.0 nextmusic[.]club
