@@ -2,3 +2,5 @@
 # Network Indicators
 0.0.0.0 indoconka[.]com 
 0.0.0.0 designcocos[.]com 
+0.0.0.0 indoconka.com
+0.0.0.0 designcocos.com
