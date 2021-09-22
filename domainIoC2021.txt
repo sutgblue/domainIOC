@@ -9367,3 +9367,5 @@
 0.0.0.0 indoconka.com 
 0.0.0.0 designcocos.com
 0.0.0.0 vultr.com
+0.0.0.0 iron.tenchier.com
+0.0.0.0 tenchier.com
