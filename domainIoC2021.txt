@@ -9507,3 +9507,7 @@
 0.0.0.0 http://www.wbemsystem.com/B2FC407BB86E8219/397A4853
 0.0.0.0 web.officeproduces.com:8000/update?wd=1b1fe9aa
 0.0.0.0 154.221.24.47/HaQ3
+0.0.0.0 indexsinas.me
+0.0.0.0 indexsinas.me
+0.0.0.0 ccmd.website
+
