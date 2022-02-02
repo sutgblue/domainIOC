@@ -1,2 +1,4 @@
 @@|*.zoom.us^$important
 @@|*.pln.co.id^$important
+@@|*.whatsapp.com
+@@|*.whatsapp.net
