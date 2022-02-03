@@ -15683,6 +15683,6 @@
 0.0.0.0 seobundlekit.com
 0.0.0.0 virtualwebdata.com
 0.0.0.0 webcodez.com
-
+0.0.0.0 pool.minexmr.com
 
 
