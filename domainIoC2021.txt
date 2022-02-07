@@ -15691,5 +15691,7 @@
 0.0.0.0 srcips.com
 0.0.0.0 hostingcloud.science
 0.0.0.0 meaghan.pythonanywhere.com
+0.0.0.0 coinmine.pl
+0.0.0.0 coinotron.com 
 
 
