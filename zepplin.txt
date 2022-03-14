@@ -1,2 +1,1 @@
-
-0.0.0.0 shop.hallandoates.com #URLZeppelin Ransomware
+0.0.0.0 hallandoates.com
