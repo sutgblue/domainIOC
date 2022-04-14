@@ -1,6 +1,7 @@
 # Block Game
 0.0.0.0 akmcdn.ml.youngjoygame.com
 0.0.0.0 youngjoygame.com
+0.0.0.0 akamaized.net
 # Have fun, don't break anything we take no responsibility if you do. Cheers!
 0.0.0.0 boreye.com
 0.0.0.0 miniast.com
