@@ -7,4 +7,15 @@
 @@||MeetingConnector.IP2
 @@||MeetingConnector2.IP
 @@||MeetingConnector2.IP2
+@@|crl3.digicert.com
+@@|crl4.digicert.com
+@@|ocsp.digicert.com
+@@|crl.entrust.net
+@@|certificates.godaddy.com
+@@|crl.godaddy.com
+@@|ocsp.godaddy.com
+@@|certificates.starfieldtech.com
+@@|crl.starfieldtech.com
+@@|ocsp.starfieldtech.com
+
 
