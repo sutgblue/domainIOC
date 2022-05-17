@@ -1,4 +1,10 @@
-@@|*.zoom.us^$important
-@@|*.pln.co.id^$important
-@@|*.whatsapp.com
-@@|*.whatsapp.net
+@@||*.zoom.us^$important
+@@||*.pln.co.id^$important
+@@||*.whatsapp.com
+@@||*.whatsapp.net
+@@||zdmapi.zoom.us
+@@||MeetingConnector.IP
+@@||MeetingConnector.IP2
+@@||MeetingConnector2.IP
+@@||MeetingConnector2.IP2
+
