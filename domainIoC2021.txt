@@ -15721,4 +15721,7 @@
 0.0.0.0 pool.hashvault.pro
 0.0.0.0 moneroocean.stream
 0.0.0.0 monerocean.stream
+0.0.0.0 jod23jgo32.com
+0.0.0.0 rohgoruhgsorhugih.kz
+0.0.0.0 76236osm1.ru
 
