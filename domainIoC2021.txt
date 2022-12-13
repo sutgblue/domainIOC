@@ -1,4 +1,19 @@
 # Block Game
+0.0.0.0 iunno.se
+0.0.0.0 hatbowlu3hf.ru
+0.0.0.0 rtmxvdio.net
+0.0.0.0 code2chicken.nl
+0.0.0.0 tracker.birkenwald.de
+0.0.0.0 birkenwald.de
+0.0.0.0 wassermann.online
+0.0.0.0 fe.dealclub.de
+0.0.0.0 dealclub.de
+0.0.0.0 mail.realliferpg.de
+0.0.0.0 movies.zsw.ca
+0.0.0.0 zsw.ca
+0.0.0.0 tracker.altrosky.nl
+0.0.0.0 abufinzio.monocul.us
+0.0.0.0 monocul.us
 0.0.0.0 akmcdn.ml.youngjoygame.com
 0.0.0.0 youngjoygame.com
 0.0.0.0 akamaized.net
